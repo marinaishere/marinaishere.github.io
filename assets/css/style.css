@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(255, 192, 203); 
+  border: 6px solid rgba(0, 255, 192, 203); 
   border-radius: 50% !important;
 }
 
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #FFC0CB;
     height: 56px;
     line-height: 56px;
   }
